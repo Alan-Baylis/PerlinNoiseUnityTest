@@ -1,0 +1,20 @@
+Perlin Noise
+
+-Lacunarity - controls increase in frequency of octaves
+
+//smaller the rock, the less influence it should have.
+
+
+increasing Lacunarity increases the number of small features.
+
+
+
+
+
+
+
+
+
+
+-Persistance - controls decrease in amplitude of octaves
+modifying persistance changes how much influence the small features influence the overall shape of the map.
